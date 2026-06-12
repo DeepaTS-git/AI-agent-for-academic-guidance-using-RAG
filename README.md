@@ -1,9 +1,7 @@
-# SE PROJECT 2025 TEAM-13
-
-## Project Title: AI Agent for Academic Guidance
+## AI Agent for Academic Guidance
 
 ### Overview
-This project focuses on developing an AI-driven agent to enhance the learning experience for students enrolled in the IITM BS degree program. The agent serves as a virtual guide, helping students navigate course materials, adopt effective study habits, and maintain academic integrity. It nudges students toward better learning strategies, providing contextually relevant resources without offering direct answers.
+This academic group project focuses on developing an AI-driven agent to enhance the learning experience for students. The agent serves as a virtual guide, helping students navigate course materials, adopt effective study habits, and maintain academic integrity. It nudges students toward better learning strategies, providing contextually relevant resources without offering direct answers.
 
 ---
 
@@ -85,3 +83,12 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 ## Contact
 For any inquiries or issues, feel free to contact Team 13.
+**Team 13**:
+Pankaj Prajapati
+Deepa Shinde
+Devrat Dave
+Nithesh S
+Suryansh Jaiswal
+Rakesh Bhattacharya
+
+This project was completed as part of the IIT Madras BS Degree curriculum as per academic guidelines.
