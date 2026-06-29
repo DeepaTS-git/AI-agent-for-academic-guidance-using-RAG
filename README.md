@@ -82,12 +82,12 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 ---
 
 ## Contact
-For any inquiries or issues, feel free to contact Team 13.
-- Pankaj Prajapati
-- Deepa Shinde
-- Devrat Dave
-- Nithesh S
-- Suryansh Jaiswal
-- Rakesh Bhattacharya
+For any inquiries or issues, feel free to contact Team.
+- Pankaj
+- Deepa
+- Devrat
+- Nithesh
+- Suryansh
+- Rakesh
 
 This project was completed as part of the IIT Madras BS Degree curriculum as per academic guidelines.
