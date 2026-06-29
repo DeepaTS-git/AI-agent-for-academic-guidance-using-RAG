@@ -1,4 +1,4 @@
-## AI Agent for Academic Guidance
+## AI Agent for Study Portal
 
 ### Overview
 This academic group project focuses on developing an AI-driven agent to enhance the learning experience for students. The agent serves as a virtual guide, helping students navigate course materials, adopt effective study habits, and maintain academic integrity. It nudges students toward better learning strategies, providing contextually relevant resources without offering direct answers.
